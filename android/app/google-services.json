@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242764604279",
+    "project_id": "pakaar-e4f6b",
+    "storage_bucket": "pakaar-e4f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242764604279:android:b1110d080c46ae5c88f772",
+        "android_client_info": {
+          "package_name": "com.project.pakaar_t2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2BFZHU-1RH3PvmJ0EgO9wNMdP2-sxjRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
